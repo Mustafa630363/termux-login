@@ -6,15 +6,15 @@ python /data/data/com.termux/files/usr/etc/login_script.py
 
 PS1="[\w] >> "
 
-clear
-echo "Created By HTR-TECH"
+clear "MuStafa Ayhan"
 echo "----------------------------" | lolcat
-echo "Instagram :@ tahmid.rayat"
+echo "Instagram :mustafa.ayhan_63"
 echo "Github: github.com/htr-tech/"
 echo "----------------------------" | lolcat
 echo "
-+-+-+-+-+-+-+-+
-|W|e|l|c|o|m|e|
-+-+-+-+-+-+-+-+ " | lolcat
++-+-+-+-+-+-+-+-+-+-+-+
+|H|o|ş|g|e|l|d|i|n|i|z
++-+-+-+-+-+-+-+-+-+-+-+
+ " | lolcat
 date | lolcat
 echo ""
